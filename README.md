@@ -1,4 +1,4 @@
-# **Helo, I'm Kyrylo, I'm web-developer developer🌐**
+# **Helo, I'm Kyrylo, web-developer developer🌐**
 
 ## My experince — 1 year <br />
 ## Technologies
