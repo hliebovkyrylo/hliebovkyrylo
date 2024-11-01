@@ -1,4 +1,4 @@
-# **Helo, I'm Kyrylo, full-stack developer🌐**
+# **Hello, I'm Kyrylo, Full-stack developer🌐**
 
 ## Technologies💻
  **`HTML5`** **`CSS3`** **`JavaScript`** **`TypeScript`** **`React`** **`Go`** **`Gin`** **`Flutter`** **`Dart`** **`Next js`** **`Node js`** **`Express`** **`Postgresql`** **`Mongodb`** **`Scss`** **`Tailwind css`** **`Redux`** **`Redux-toolkit`** **`Docker`**
